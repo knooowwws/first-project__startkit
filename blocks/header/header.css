@@ -1,0 +1,56 @@
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  /* выше установили ограничения для секции */
+  background-color: #f2f2f2;
+  position: relative;
+  display: flex;
+}
+
+.logo__place_header{
+  top: 30px;
+  left: 64px;
+  position: absolute;
+}
+
+.header__title{
+  width: 730px;
+  margin: auto auto auto 64px;
+  font-size: 102px;
+  line-height: 96px;
+  font-weight: bold;
+  z-index: 3;
+}
+
+.header__subtitle{
+  width: 388px;
+  position: absolute;
+  bottom: 30px;
+  left: 64px;
+  z-index: 6;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: normal;
+}
+
+.header__main-illustration {
+  width: 765px;
+  height: 608px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+}
+/* HEADER*/
+
+
+/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+.header__square-pic {
+  height: 568px;
+  width: 568px;
+  position: absolute;
+  right: 0;
+  top: 64px;
+  z-index: 1;
+}
