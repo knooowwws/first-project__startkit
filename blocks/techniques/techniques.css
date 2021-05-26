@@ -1,28 +1,10 @@
 .techniques{
   width: 80%;
-  margin: 0 auto;
-  padding-top: 100px;
   display: flex;
   align-items: center;
   flex-direction: column;
 }
 
-
-
-.section-title{
-  width: 60%;
-  text-align: center;
-  font-size: 60px;
-  line-height: 1.15;
-  font-weight: bold;
-}
-
-.section-subtitle{
-  width: 60%;
-  text-align: center;
-  font-size: 24px;
-  line-height: 34px;
-}
 
 .cards{
   width: 920px;
@@ -34,6 +16,10 @@
   margin-top: 60px;
   margin-right: 100px;
   width: 240px;
+}
+
+.cards__item:nth-child(3n+3) {
+  margin-right: 0;
 }
 
 .cards__image{
@@ -49,10 +35,6 @@
   line-height: 1.15;
   font-weight: bold;
   font-size: 24px;
-}
-
-.cards__item:nth-child(3n+3) {
-  margin-right: 0;
 }
 
 .cards__description {
