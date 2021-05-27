@@ -9,20 +9,26 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding-top: 60px;
   padding-bottom: 100px;
 }
 
-.table__cell{
-  width: 250px;
+.digits__padding{
+  padding-top: 60px;
 }
 
-.table__cell:nth-child(4n+4) {
+.table__cell{
+}
+
+.table__cell_width_250{
+  width: 250px;
+  text-align: center;
+}
+
+.table__cell_width_250:nth-child(4n+4) {
   margin: 0 0 60px 0;
 }
 
 .table__heading{
-  text-align: center;
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
@@ -31,7 +37,7 @@
 .table__text{
   font-size: 18px;
   line-height: 1.12;
-  text-align: center;
+  /*text-align: center;*/
   margin-top: 20px;
 }
 
