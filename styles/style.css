@@ -4,6 +4,7 @@
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/resources/resources.css);
 
 body, h1, h2, h3, h4, h5, h6, p {
   margin: 0;
@@ -40,6 +41,7 @@ body, h1, h2, h3, h4, h5, h6, p {
 }
 
 .section-subtitle{
+  padding-top: 20px;
   width: 60%;
   text-align: center;
   font-size: 24px;
