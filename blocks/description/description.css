@@ -1,40 +1,6 @@
+@import url(./two-columns/two-columns.css);
+
 .description {
   display: flex;
   justify-content: center;
-}
-
-.two-columns{
-  padding-top: 100px;
-  width: 80%;
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-}
-
-.two-columns__brief{
-  width: 175px;
-  font-size: 18px;
-  font-weight: normal;
-  color: #2f80ed;
-}
-
-.two-columns__main-text{
-  width: 80%;
-  min-width: 784px;
-}
-
-.two-columns__paragraph{
-  margin-top: 0;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  margin-bottom: 30px;
-}
-
-.two-columns__paragraph:nth-last-of-type(1){
-  margin-bottom: 0;
-}
-
-.two-columns__span-accent{
-  font-weight: bold;
 }
