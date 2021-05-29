@@ -1,10 +1,10 @@
-.digits{
+.digits {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.table{
+.table {
   width: 1100px;
   display: flex;
   flex-wrap: wrap;
@@ -12,14 +12,13 @@
   padding-bottom: 100px;
 }
 
-.digits__padding{
+.digits__padding {
   padding-top: 60px;
 }
 
-.table__cell{
-}
+.table__cell {}
 
-.table__cell_width_250{
+.table__cell_width_250 {
   width: 250px;
   text-align: center;
 }
@@ -28,19 +27,19 @@
   margin: 0 0 60px 0;
 }
 
-.table__heading{
+.table__heading {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
 }
 
-.table__text{
+.table__text {
   font-size: 18px;
   line-height: 1.12;
   /*text-align: center;*/
   margin-top: 20px;
 }
 
-.table__text_left{
+.table__text_left {
   text-align: left;
 }

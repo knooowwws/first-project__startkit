@@ -1,4 +1,4 @@
-.kaufman{
+.kaufman {
   padding-top: 90px;
   display: flex;
   flex-direction: column;
@@ -7,11 +7,11 @@
   width: 100%;
 }
 
-.section-title_theme_dark{
+.section-title_theme_dark {
   color: white;
 }
 
-.section-subtitle_theme_dark{
+.section-subtitle_theme_dark {
   color: white;
 }
 
