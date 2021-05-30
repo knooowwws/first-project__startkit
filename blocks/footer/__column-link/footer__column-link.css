@@ -1,0 +1,15 @@
+.footer__column-link {
+  margin-bottom: 10px;
+  align-items: center;
+  line-height: 18px;
+  font-size: 18px;
+}
+
+.footer__column-link a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__column-link img {
+  margin-right: 8px;
+}

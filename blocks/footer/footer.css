@@ -1,3 +1,10 @@
+@import url(./__columns/footer__columns.css);
+@import url(./__column/_content_copyright/footer__columns_content_copyright.css);
+@import url(./__column-links/footer__column-links.css);
+@import url(./__column-link/footer__column-link.css);
+@import url(./__column-heading/footer__columng-heading.css);
+@import url(./__author/footer__author.css);
+
 .footer {
   padding-top: 60px;
   padding-bottom: 40px;
@@ -7,58 +14,8 @@
   min-height: 350px;
 }
 
-.footer__columns {
-  width: 90%;
-  display: flex;
-  justify-content: space-between;
-  margin: auto;
-  min-height: 350px;
-}
-
-.footer__column {}
-
-.footer__column_content_copyright {
-  flex-basis: 711px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
 
 .logo__place_footer {
   width: 183px;
   height: 35px;
-}
-
-.footer__author {
-  margin-top: 18px;
-  margin-bottom: 18px;
-  line-height: 25px;
-  font-size: 18px;
-}
-
-.footer__column-heading {
-  line-height: 18px;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.footer__column-links {
-  margin-top: 20px;
-  margin-bottom: 6px;
-}
-
-.footer__column-link {
-  margin-bottom: 10px;
-  align-items: center;
-  line-height: 18px;
-  font-size: 18px;
-}
-
-.footer__column-link_a {
-  text-decoration: none;
-  color: white;
-}
-
-.footer__column-link_img {
-  margin-right: 8px;
 }

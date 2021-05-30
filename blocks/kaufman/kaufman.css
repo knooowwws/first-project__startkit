@@ -1,3 +1,5 @@
+@import url(./__theme_dark/kaufman__theme_dark.css);
+
 .kaufman {
   padding-top: 90px;
   display: flex;
@@ -5,20 +7,4 @@
   align-items: center;
   background-color: #1d1d1d;
   width: 100%;
-}
-
-.section-title_theme_dark {
-  color: white;
-}
-
-.section-subtitle_theme_dark {
-  color: white;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
 }
