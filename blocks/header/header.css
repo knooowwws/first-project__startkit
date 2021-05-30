@@ -1,3 +1,9 @@
+@import url(./__link/header__link.css);
+@import url(./__main-illustration/header__main-illustration.css);
+@import url(./__square-pic/header__square-pic.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__title/header__title.css);
+
 .header {
   height: 100vh;
   min-height: 600px;
@@ -9,58 +15,18 @@
   align-self: stretch;
 }
 
-.logo{
+.logo {}
 
-}
-
-.logo__place_header{
+.logo__place_header {
   top: 30px;
   left: 64px;
   position: absolute;
 }
 
-.header__title{
-  width: 730px;
-  margin: auto auto auto 64px;
-  font-size: 102px;
-  line-height: 96px;
-  font-weight: bold;
-  z-index: 3;
-}
 
-.header__subtitle{
-  width: 388px;
-  position: absolute;
-  bottom: 30px;
-  left: 64px;
-  z-index: 6;
-  font-size: 18px;
-  line-height: 25px;
-  font-weight: normal;
-}
 
-.header__link{
-  text-decoration: none;
-  color: #2f80ed;
-}
 
-.header__main-illustration {
-  width: 765px;
-  height: 608px;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  z-index: 2;
-}
+
+
+
 /* HEADER*/
-
-
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-  position: absolute;
-  right: 0;
-  top: 64px;
-  z-index: 1;
-}
