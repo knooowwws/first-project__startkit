@@ -1,7 +1,6 @@
 @import url(./cards/cards.css);
 
 .techniques {
-  width: 80%;
   display: flex;
   align-items: center;
   flex-direction: column;

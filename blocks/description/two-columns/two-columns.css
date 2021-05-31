@@ -4,9 +4,9 @@
 @import url(./__span-accent/two-columns__span-accent.css);
 
 .two-columns {
-  padding-top: 100px;
   width: 80%;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  padding-bottom: 100px;
 }
