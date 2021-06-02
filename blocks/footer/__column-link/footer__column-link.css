@@ -3,6 +3,7 @@
   align-items: center;
   line-height: 18px;
   font-size: 18px;
+  list-style: none;
 }
 
 .footer__column-link a {
