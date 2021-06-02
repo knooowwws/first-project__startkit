@@ -11,6 +11,7 @@
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/khan/khan.css);
+@import url(./normalize.css);
 
 @font-face {
   font-family: Inter;
