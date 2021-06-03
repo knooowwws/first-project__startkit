@@ -1,1 +1,4 @@
-first-project__startkit
+how-to-learn
+
+Первая проектная работа
+
