@@ -2,5 +2,7 @@
   position: absolute;
   right: -210px;
   z-index: 0;
-  animation: rotation 20s linear infinite;
+  width: 995px;
+  height: 1006px;
+  background-image: url(../../../images/triangle.svg);
 }
