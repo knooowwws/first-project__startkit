@@ -5,8 +5,8 @@
   color: white;
   width: 100%;
   min-height: 350px;
+  box-sizing: border-box;
 }
-
 
 .logo__place_footer {
   width: 183px;

@@ -5,12 +5,3 @@
   font-size: 18px;
   list-style: none;
 }
-
-.footer__column-link a {
-  text-decoration: none;
-  color: white;
-}
-
-.footer__column-link img {
-  margin-right: 8px;
-}

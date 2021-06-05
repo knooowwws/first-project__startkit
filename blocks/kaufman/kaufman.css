@@ -9,9 +9,3 @@
   position: relative;
   overflow: hidden;
 }
-
-.kaufman .section-title,
-.section-subtitle,
-.table {
-  z-index: 1;
-}

@@ -4,8 +4,3 @@
   flex-direction: column;
   align-items: center;
 }
-
-.digits__padding {
-  padding-bottom: 100px;
-  padding-top: 60px;
-}
