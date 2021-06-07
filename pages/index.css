@@ -38,18 +38,6 @@
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__title/cards__title.css);
-/* digits */
-@import url(../blocks/digits/digits.css);
-/* table */
-@import url(../blocks/table/table.css);
-@import url(../blocks/table/_padding/_zero/table_padding_zero.css);
-@import url(../blocks/table/__cell/_width_250/table__cell_width_250.css);
-@import url(../blocks/table/__cell/theme/_dark/table__cell_theme_dark.css);
-@import url(../blocks/table/__heading/table__heading.css);
-@import url(../blocks/table/__text/table__text.css);
-/* kaufman */
-@import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 /* video */
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
@@ -62,6 +50,15 @@
 @import url(../blocks/feynman/__link-a/feynman__link-a.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+/* digits */
+@import url(../blocks/digits/digits.css);
+/* table */
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/__cell/theme/_dark/table__cell_theme_dark.css);
+@import url(../blocks/table/_padding/_zero/table_padding_zero.css);
 /* khan */
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
@@ -73,6 +70,9 @@
 @import url(../blocks/khan/__title/khan__title.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
+/* kaufman */
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 /* resources */
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/_padding/_zero/resources_padding_zero.css);

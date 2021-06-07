@@ -1,11 +1,5 @@
 .table__cell {
   list-style: none;
-}
-
-.table__cell_width_250 {
   width: 250px;
-}
-
-.table__cell_width_250:nth-child(4n+4) {
   margin: 0 0 60px 0;
 }
