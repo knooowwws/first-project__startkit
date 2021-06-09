@@ -21,7 +21,6 @@
 /* section-subtitle */
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
-@import url(../blocks/section-subtitle/_place/section-subtitle_place_digits.css);
 /* descriptions */
 @import url(../blocks/description/description.css);
 /* two-columns */
